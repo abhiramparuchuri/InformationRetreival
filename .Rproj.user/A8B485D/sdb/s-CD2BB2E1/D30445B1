@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450406858400.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D30445B1",
+    "lastKnownWriteTime" : 7599372924800492914,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "yeard",
+        "contentUrl" : "content?title=yeard&file=186bf49989f247dbba446c7cc48f03ec.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 35,
+        "totalObservations" : 2216,
+        "variables" : 35
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

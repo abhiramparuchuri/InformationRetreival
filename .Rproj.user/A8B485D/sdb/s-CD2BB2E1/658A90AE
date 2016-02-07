@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450404074153.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "658A90AE",
+    "lastKnownWriteTime" : 249518864,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "merge11",
+        "contentUrl" : "content?title=merge11&file=33d0cdcec4c84ff7b1d0d3e810af04e6.htm",
+        "displayedObservations" : "113",
+        "displayedVariables" : 18,
+        "totalObservations" : "113",
+        "variables" : "25"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450357939033.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56E9459C",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dataP",
+        "contentUrl" : "content?title=dataP&file=b378904114f84708a4d597045f2707ac.htm",
+        "displayedObservations" : "158",
+        "displayedVariables" : 9,
+        "totalObservations" : "158",
+        "variables" : "9"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

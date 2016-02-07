@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450406896094.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A2F925F",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "countryd",
+        "contentUrl" : "content?title=countryd&file=6a7bed1c98464618a5d5b63da574901b.htm",
+        "displayedObservations" : 2,
+        "displayedVariables" : 25,
+        "totalObservations" : 2,
+        "variables" : 25
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

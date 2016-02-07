@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450406914214.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A7E3EA6D",
+    "lastKnownWriteTime" : 7599372924800492914,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "mxdel",
+        "contentUrl" : "content?title=mxdel&file=2634a54412364c2cbf1fc2196c9392a6.htm",
+        "displayedObservations" : 45,
+        "displayedVariables" : 3,
+        "totalObservations" : 45,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

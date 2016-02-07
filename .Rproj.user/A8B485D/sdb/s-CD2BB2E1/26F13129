@@ -1,0 +1,17 @@
+{
+    "contents" : "data_fr<-read.xlsx(\"2013 Geographric Coordinate Spreadsheet for U S  Farmers Markets 8'3'1013.xlsx\",startRow=3)\nmongoData2<-mongo(\"data\")\nmongoData$insert(data_fr)\nmongoData2$count()\nmongoData$count('{\"Vegetables\":\"Y\"}')\n\ncheese<-mongoData$find('{\"Cheese\":\"Y\"}')\nmongoData$aggregate('[{\"$group\":{\"_st\":\"$State,$County\", \"count\": {\"$sum\":\"$y\"}}}]')\n\ndata_fr<-read.csv(\"\")\n",
+    "created" : 1450346283220.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "826952778",
+    "id" : "26F13129",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

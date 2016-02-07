@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450373940878.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F0DDF9AE",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dataD",
+        "contentUrl" : "content?title=dataD&file=be8d0e9b83c348a390495a376d3c2f2c.htm",
+        "displayedObservations" : "158",
+        "displayedVariables" : 9,
+        "totalObservations" : "158",
+        "variables" : "9"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

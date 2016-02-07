@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450406107974.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "24447FE1",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "supplyData",
+        "contentUrl" : "content?title=supplyData&file=c0c553fe1e04447a897f841856e304f0.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 35,
+        "totalObservations" : "10324",
+        "variables" : "35"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

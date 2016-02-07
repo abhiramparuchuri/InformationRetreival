@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1450374134437.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C37CDDEE",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dataN",
+        "contentUrl" : "content?title=dataN&file=29e08a96e5614af48344b21a3d6e2946.htm",
+        "displayedObservations" : "194",
+        "displayedVariables" : 9,
+        "totalObservations" : "194",
+        "variables" : "9"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
